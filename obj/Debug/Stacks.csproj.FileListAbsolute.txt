@@ -1,0 +1,8 @@
+D:\SimpliLearn Course\Assisted Project\Stacks\Stacks\bin\Debug\Stacks.exe.config
+D:\SimpliLearn Course\Assisted Project\Stacks\Stacks\bin\Debug\Stacks.exe
+D:\SimpliLearn Course\Assisted Project\Stacks\Stacks\bin\Debug\Stacks.pdb
+D:\SimpliLearn Course\Assisted Project\Stacks\Stacks\obj\Debug\Stacks.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Assisted Project\Stacks\Stacks\obj\Debug\Stacks.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Assisted Project\Stacks\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Assisted Project\Stacks\Stacks\obj\Debug\Stacks.exe
+D:\SimpliLearn Course\Assisted Project\Stacks\Stacks\obj\Debug\Stacks.pdb
